@@ -1,0 +1,319 @@
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\MVC.dll.config
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\MVC.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\MVC.pdb
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\csc.exe
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\csc.exe.config
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\csc.rsp
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\csi.exe
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\csi.rsp
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\System.AppContext.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\vbc.exe
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\vbc.exe.config
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\vbc.rsp
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\VBCSCompiler.exe
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Antlr3.Runtime.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Bai351_1_09042021.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Newtonsoft.Json.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Helpers.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Mvc.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Optimization.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Razor.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.WebPages.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.WebPages.Razor.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\WebGrease.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Http.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Http.WebHost.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Net.Http.Formatting.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Bai351_1_09042021.pdb
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Bai351_1_09042021.dll.config
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Helpers.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Mvc.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Optimization.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Razor.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.WebPages.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.WebPages.Razor.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Newtonsoft.Json.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Antlr3.Runtime.pdb
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Http.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Web.Http.WebHost.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\System.Net.Http.Formatting.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\obj\Debug\MVC.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\obj\Debug\MVC.pdb
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.Modules.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.SQLite.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.Wpf.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Dynamic.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Scripting.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Scripting.Metadata.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.Modules.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.SQLite.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\IronPython.Wpf.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Dynamic.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Scripting.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Microsoft.Scripting.Metadata.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Facebook.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\Facebook.xml
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\BlogApi.dll
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\BlogApi.pdb
+D:\nam3ki2\api\Projects\Bai351_1_09042021\MVC\bin\BlogApi.dll.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\MVC.dll.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\MVC.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\MVC.pdb
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Bai351_1_09042021.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\BlogApi.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Facebook.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.Modules.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.SQLite.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.Wpf.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Dynamic.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Scripting.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\WebGrease.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Bai351_1_09042021.pdb
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Bai351_1_09042021.dll.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\BlogApi.pdb
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\BlogApi.dll.config
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Facebook.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.Modules.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.SQLite.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\IronPython.Wpf.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Dynamic.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Scripting.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\New folder\api-project\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\api-project\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\api-project\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\api-project\MVC\obj\Debug\MVC.dll
+C:\Users\Admin\Desktop\New folder\api-project\MVC\obj\Debug\MVC.pdb
+C:\Users\Admin\Downloads\api-project\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\api-project\MVC\obj\Debug\MVC.dll
+C:\Users\Admin\Downloads\api-project\MVC\obj\Debug\MVC.pdb
+C:\Users\Admin\Downloads\api-project\MVC\bin\MVC.dll.config
+C:\Users\Admin\Downloads\api-project\MVC\bin\MVC.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\MVC.pdb
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\api-project\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\api-project\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Facebook.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.Modules.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.SQLite.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.Wpf.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Dynamic.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Scripting.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\WebGrease.dll
+C:\Users\Admin\Downloads\api-project\MVC\bin\Facebook.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.Modules.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.SQLite.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\IronPython.Wpf.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Dynamic.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Scripting.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\api-project\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\api-project\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\api-project\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\New folder\api-project\api-project\MVC\bin\MVC.dll.config
+D:\New folder\api-project\api-project\MVC\bin\MVC.dll
+D:\New folder\api-project\api-project\MVC\bin\MVC.pdb
+D:\New folder\api-project\api-project\MVC\bin\roslyn\csc.exe
+D:\New folder\api-project\api-project\MVC\bin\roslyn\csc.exe.config
+D:\New folder\api-project\api-project\MVC\bin\roslyn\csc.rsp
+D:\New folder\api-project\api-project\MVC\bin\roslyn\csi.exe
+D:\New folder\api-project\api-project\MVC\bin\roslyn\csi.rsp
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\api-project\api-project\MVC\bin\roslyn\System.AppContext.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\api-project\api-project\MVC\bin\roslyn\vbc.exe
+D:\New folder\api-project\api-project\MVC\bin\roslyn\vbc.exe.config
+D:\New folder\api-project\api-project\MVC\bin\roslyn\vbc.rsp
+D:\New folder\api-project\api-project\MVC\bin\roslyn\VBCSCompiler.exe
+D:\New folder\api-project\api-project\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\api-project\api-project\MVC\bin\Antlr3.Runtime.dll
+D:\New folder\api-project\api-project\MVC\bin\Facebook.dll
+D:\New folder\api-project\api-project\MVC\bin\IronPython.dll
+D:\New folder\api-project\api-project\MVC\bin\IronPython.Modules.dll
+D:\New folder\api-project\api-project\MVC\bin\IronPython.SQLite.dll
+D:\New folder\api-project\api-project\MVC\bin\IronPython.Wpf.dll
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Dynamic.dll
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Scripting.dll
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Scripting.Metadata.dll
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\api-project\api-project\MVC\bin\Newtonsoft.Json.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Net.Http.Formatting.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Helpers.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Http.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Mvc.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Optimization.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Razor.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.WebPages.dll
+D:\New folder\api-project\api-project\MVC\bin\System.Web.WebPages.Razor.dll
+D:\New folder\api-project\api-project\MVC\bin\WebGrease.dll
+D:\New folder\api-project\api-project\MVC\bin\Facebook.xml
+D:\New folder\api-project\api-project\MVC\bin\IronPython.xml
+D:\New folder\api-project\api-project\MVC\bin\IronPython.Modules.xml
+D:\New folder\api-project\api-project\MVC\bin\IronPython.SQLite.xml
+D:\New folder\api-project\api-project\MVC\bin\IronPython.Wpf.xml
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Dynamic.xml
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Scripting.xml
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.Scripting.Metadata.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Net.Http.Formatting.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Http.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Helpers.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Mvc.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Optimization.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.Razor.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.WebPages.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\api-project\api-project\MVC\bin\System.Web.WebPages.Razor.xml
+D:\New folder\api-project\api-project\MVC\bin\Newtonsoft.Json.xml
+D:\New folder\api-project\api-project\MVC\bin\Antlr3.Runtime.pdb
+D:\New folder\api-project\api-project\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\api-project\api-project\MVC\obj\Debug\MVC.csproj.AssemblyReference.cache
+D:\New folder\api-project\api-project\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\New folder\api-project\api-project\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\New folder\api-project\api-project\MVC\obj\Debug\MVC.dll
+D:\New folder\api-project\api-project\MVC\obj\Debug\MVC.pdb
