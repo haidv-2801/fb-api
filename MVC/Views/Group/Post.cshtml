@@ -5,7 +5,7 @@
 }
 
 <h2>Đăng bài</h2>
-    message<br />
+@*message<br />
     <input type="text" name="message" />
     <br /><br />
     link<br />
@@ -17,6 +17,44 @@
           <option data-id="@item.id">@item.name</option>
         }
     </select>
-    <br /><br />
-  
+    <br /><br />*@
+<div class="container mx-auto" style="width: 1366px;"">
+    <form class="mx-auto">
+        <div class="form-group">
+            <label for="exampleFormControlInput1">Message</label>
+            <input type="text" name="message" class="form-control" id="exampleFormControlInput1" placeholder="message...">
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlInput1">Link</label>
+            <input type="text" name="link" class="form-control" id="exampleFormControlInput1" placeholder="link...">
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlSelect1">Example select</label>
+            <select class="form-control" id="example-getting-started" multiple="multiple">
+                @foreach (var item in Model.datas.Where(x => x.privacy == "CLOSED" || x.privacy == "OPEN").ToList())
+                {
+                    <option data-id="@item.id">@item.name</option>
+                }
+            </select>
+        </div>
+        @*<div class="form-group">
+                <label for="exampleFormControlSelect2">Example multiple select</label>
+                <select multiple class="form-control" id="exampleFormControlSelect2">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="exampleFormControlTextarea1">Example textarea</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>*@
+    </form>
+
     <a href="#" id="btnSend" class="btn btn-primary">Post</a>
+</div>
+
+
+
