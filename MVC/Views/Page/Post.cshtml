@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Đăng bài</h2>
+@*<h2>Đăng bài</h2>
     message
 <br />
 <input type="text" name="message" />
@@ -32,7 +32,31 @@
 <label for="male">Is Published</label>
 <br />
 <br />
-<a href="#" id="btnPostToPage" class="btn btn-primary">Post</a>
+<a href="#" id="btnPostToPage" class="btn btn-primary">Post</a>*@
+
+<h2>Đăng bài</h2>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Message</label>
+        <input type="text" name="message" class="form-control" id="exampleFormControlInput1" placeholder="message...">
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlInput2">Link</label>
+        <input type="text" name="link" class="form-control" id="exampleFormControlInput2" placeholder="link...">
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlInput3">Link</label>
+        <input type="text" name="image_url" class="form-control" id="exampleFormControlInput3" placeholder="image url...">
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlSelect2">Pages</label>
+        <select multiple class="form-control" id="example-getting-started">
+            @foreach (var item in Model.datas)
+            {
+                <option data-id="@item.id" data-accesstoken="@item.access_token">@item.name</option>
+            }
+        </select>
+    </div>
+    <button id="btnPostToPage" class="btn btn-primary">Post</button>
 
 
 

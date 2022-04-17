@@ -4,9 +4,9 @@
 </style>
 @foreach (var item in Model)
 {
-<div class="ok" style="padding: 10px 5px; margin: 15px 10px; width: 100%; box-shadow: 0 0 10px #719ECE; border-radius: 5px;">
+<div class="ok" style="padding: 10px 5px; margin: 15px 10px; width: 100%; box-shadow: 0 0 10px #bbbbbb; border-radius: 5px;">
     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-        ID : @item.id
+        <span class="font-weight-bold">Mã bài đăng :</span>  @item.id
     </div>
     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
         <details>
@@ -16,16 +16,15 @@
         </details>
     </div>
     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-        MESSAGE : @item.message
-    </div>
+        <span class="font-weight-bold">MESSAGE :</span> @item.message
+</div>
     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
         <span>@((DateTime.Today - DateTime.Parse(item.created_time)).Days) days ago.</span>
         <img src="@item.full_picture" style="width:100px; height:100px;" />
     </div>
     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-        Số comments : <a href="/Post/DetailComment?postId=@item.id">@item.comments.Summary.total_count</a>
-        @* @item.count*@
-    </div>
+        <span class="font-weight-bold">Số bình luận:</span> <a href="/Post/DetailComment?postId=@item.id">@item.comments.Summary.total_count</a>
+</div>
 </div>
 }
 

@@ -16,15 +16,22 @@ namespace MVC.Controllers.FbApiController
         // GET: Group
         public ActionResult Index(string id)
         {
-            string AccessToken = Session["Access_Token"] as string;
-            string apiString = "/groups?fields=id,name,privacy,member_count&access_token=" + AccessToken;
-            apiString = string.Concat(id, apiString);
+            try
+            {
+                string AccessToken = Session["Access_Token"] as string;
+                string apiString = "/groups?fields=id,name,privacy,member_count&access_token=" + AccessToken;
+                apiString = string.Concat(id, apiString);
 
-            string method = "Get";
-            string responseString = GlobalVariables.GetStringResponse(apiString, method);
+                string method = "Get";
+                string responseString = GlobalVariables.GetStringResponse(apiString, method);
 
-            GroupModel listGr = JsonConvert.DeserializeObject<GroupModel>(responseString);
-            return View(listGr);
+                GroupModel listGr = JsonConvert.DeserializeObject<GroupModel>(responseString);
+                return View(listGr);
+            }
+            catch (Exception)
+            {
+                return Redirect("/Auth/Index");
+            }
         }
 
         [System.Web.Mvc.HttpGet]

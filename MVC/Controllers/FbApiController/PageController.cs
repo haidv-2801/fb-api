@@ -14,48 +14,69 @@ namespace MVC.Controllers.FbApiController
 
         public ActionResult Index(string id)
         {
-            string AccessToken = Session["Access_Token"] as string;
-            string apiString = "/accounts?fields=id,access_token,name,category,about,link&access_token=" + AccessToken;
-            apiString = string.Concat(id, apiString);
+            try
+            {
+                string AccessToken = Session["Access_Token"] as string;
+                string apiString = "/accounts?fields=id,access_token,name,category,about,link&access_token=" + AccessToken;
+                apiString = string.Concat(id, apiString);
 
-            string method = "Get";
-            string responseString = GlobalVariables.GetStringResponse(apiString, method);
+                string method = "Get";
+                string responseString = GlobalVariables.GetStringResponse(apiString, method);
 
-           PageModel listPage = JsonConvert.DeserializeObject<PageModel>(responseString);
-          
-            return View(listPage);
+                PageModel listPage = JsonConvert.DeserializeObject<PageModel>(responseString);
+
+                return View(listPage);
+            }
+            catch (Exception)
+            {
+                return Redirect("/Auth/Index");
+            }
         }
 
         public ActionResult Feed(string id, string AccessToken)
         {
+            try
+            {
+                string apiString = "/feed?fields=id,message,created_time,from,full_picture,likes.summary(true),comments.limit(0).summary(true)&access_token=" + AccessToken;
+                apiString = string.Concat(id, apiString);
 
-            string apiString = "/feed?fields=id,message,created_time,from,full_picture,likes.summary(true),comments.limit(0).summary(true)&access_token=" + AccessToken;
-            apiString = string.Concat(id, apiString);
+                string method = "Get";
+                string responseString = GlobalVariables.GetStringResponse(apiString, method);
 
-            string method = "Get";
-            string responseString = GlobalVariables.GetStringResponse(apiString, method);
+                Session["pageid"] = id;
+                Session["page_accesstoken"] = AccessToken;
 
-            Session["pageid"] = id;
-            Session["page_accesstoken"] = AccessToken;
-
-            PageFeedsModel listPage = JsonConvert.DeserializeObject<PageFeedsModel>(responseString);
-            return View(listPage);
+                PageFeedsModel listPage = JsonConvert.DeserializeObject<PageFeedsModel>(responseString);
+                return View(listPage);
+            }
+            catch (Exception)
+            {
+                return Redirect("/Auth/Index");
+            }
         }
 
         [HttpGet]
         public ActionResult Post()
         {
-            string AccessToken = Session["Access_Token"] as string;
-            string UserId = (Session["user_info"] as User).id;
+            try
+            {
+                string AccessToken = Session["Access_Token"] as string;
+                string UserId = (Session["user_info"] as User).id;
 
-            string apiString = "/accounts?fields=id,access_token,name,category,about,link&access_token=" + AccessToken;
-            apiString = string.Concat(UserId, apiString);
+                string apiString = "/accounts?fields=id,access_token,name,category,about,link&access_token=" + AccessToken;
+                apiString = string.Concat(UserId, apiString);
 
-            string method = "Get";
-            string responseString = GlobalVariables.GetStringResponse(apiString, method);
+                string method = "Get";
+                string responseString = GlobalVariables.GetStringResponse(apiString, method);
 
-            PageModel listPage = JsonConvert.DeserializeObject<PageModel>(responseString);
-            return View(listPage);
+                PageModel listPage = JsonConvert.DeserializeObject<PageModel>(responseString);
+                return View(listPage);
+            }
+            catch (Exception)
+            {
+
+                return Redirect("/Auth/Index");
+            }
         }
 
 

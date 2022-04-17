@@ -6,7 +6,7 @@
 }
 <div class="row gutters">
     <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
-        <a href="/Group/Post">Post to groups</a>
+        <a href="/Group/Post" class="btn btn-secondary mb-3">Đăng bài</a>
     </div>
         <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
             <div class="card h-100">
@@ -16,30 +16,28 @@
                         {
                         <div style="padding: 10px 5px; margin: 15px 10px; width: 100%; box-shadow: 0 0 10px #719ECE; border-radius: 5px;">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                ID : @post.id
+                                <span class="font-weight-bold">
+                                    Mã nhóm :
+                                </span> @post.id
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <details>
-                                    <summary>
-                                        <span><i class="material-icons"><a target="_blank" href="https://facebook.com/@post.id" style="text-decoration:none;">Link to this group</a></i></span>
+                               
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">Tên nhóm :</span> @post.name
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">Loại nhóm :</span> @(post.privacy == null ? "Unknown" : post.privacy)
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">Tổng thành viên :</span> @(post.member_count == null ? "Unknown" : post.member_count)
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mt-3">
+                                <details class="mb-3 flex">
+                                    <summary class="flex justify-content-end">
+                                        <span><i class="material-icons"><a href="/Group/Feed/@post.id" style="text-decoration:none;" class="btn btn-success">Xem tất cả bài đăng</a></i></span>
+                                        <span><i class="material-icons"><a target="_blank" href="https://facebook.com/@post.id" style="text-decoration:none;" class="btn btn-info">Đi đến bài viết</a></i></span>
                                     </summary>
-                                </details>
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                NAME : @post.name
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                PRIVACY : @(post.privacy == null ? "Unknown" : post.privacy)
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                TOTAL_MEMBER : @(post.member_count == null ? "Unknown" : post.member_count)
-                            </div>
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <details class="mb-3">
-                                    <summary>
-                                        <span><i class="material-icons"><a href="/Group/Feed/@post.id" style="text-decoration:none;">See all posts</a></i></span>
-                                    </summary>
-                                    <br />
                                 </details>
                             </div>
 

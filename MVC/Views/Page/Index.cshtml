@@ -6,7 +6,7 @@
 
 <div class="row gutters">
     <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
-        <a href="/Page/Post">Post to page</a>
+        <a href="/Page/Post" class="btn btn-secondary mb-3">Đăng bài</a>
     </div>
     <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
         <div class="card h-100">
@@ -14,7 +14,7 @@
                 <div class="row gutters">
                     @foreach (var page in Model.datas)
                     {
-                        <div style="padding: 10px 5px; margin: 15px 10px; width: 100%; box-shadow: 0 0 10px #719ECE; border-radius: 5px;">
+                        @*<div style="padding: 10px 5px; margin: 15px 10px; width: 100%; box-shadow: 0 0 10px #719ECE; border-radius: 5px;">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                 ID : @page.id
                             </div>
@@ -29,7 +29,7 @@
                                 NAME : @page.name
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                    CATEGORY : @(page.category)
+                                CATEGORY : @(page.category)
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     ABOUT : @(page.about)
                                 </div>
@@ -43,10 +43,39 @@
                                 </div>
 
                             </div>
-                            
+
+                        </div>*@
+
+                        //
+                        <div style="padding: 10px 5px; margin: 15px 10px; width: 100%; box-shadow: 0 0 10px #719ECE; border-radius: 5px;">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">
+                                    Mã trang :
+                                </span> @page.id
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">Tên trang :</span> @page.name
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">Loại trang :</span> @(page.category == null ? "Unknown" : page.category)
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <span class="font-weight-bold">Thông tin thêm :</span> @(page.about == null ? "Unknown" : page.about)
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mt-3">
+                                <details class="mb-3 flex">
+                                    <summary class="flex justify-content-end">
+                                        <span><i class="material-icons"><a href="/Page/Feed?id=@page.id&AccessToken=@page.access_token"  class="btn btn-success" style="text-decoration:none;">Xem tất cả bài viết</a></i></span>
+                                    </summary>
+                                </details>
+                            </div>
+
                         </div>
                     }
-                    </div>
+                </div>
                 </div>
             </div>
         </div>

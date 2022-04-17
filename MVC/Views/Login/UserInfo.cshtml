@@ -6,6 +6,7 @@
 
 <div class="row gutters">
     <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+        <img src="~/Assets/Images/fb.png" style="width: inherit"/>
         <div class="card h-100">
             <div class="card-body">
                 <div class="account-settings">
@@ -17,7 +18,7 @@
                         <h6 class="user-email">@user_model.email</h6>
                         <h6 class="user-email">@user_model.birthday</h6>
                         <h6 class="user-email">Gender : @user_model.gender</h6>
-                        <h6 class="user-email">Address : @user_model.address</h6>
+                        <h6 class="user-email mb-3">Address : @user_model.address</h6>
                         <details>
                             <summary>
                                 <span>Contact me</span>
@@ -26,13 +27,23 @@
                             <br />
                             <span>Phone : 0388039267</span>
                         </details>
+
+                        <details class="mb-3">
+                            <summary>
+                                <span>DashBoard</span>
+                            </summary>
+                            <span><i class="material-icons"><a href="/Group/Index/@user_model.id" style="text-decoration:none;">Groups</a></i></span>
+                            <br />
+                            <span><i class="material-icons"><a href="/Page/Index/@user_model.id" style="text-decoration:none;">Pages</a></i></span>
+                            <br />
+                        </details>
                     </div>
                     <div class="about">
-                        <h5>About</h5>
+                        @*<h5>About</h5>*@
                         @*<p>I'm Hai. A student at University of Transport and Comunication.</p>*@
                     </div>
 
-                    <details class="mb-3">
+                    @*<details class="mb-3">
                         <summary>
                             <span>DashBoard</span>
                         </summary>
@@ -40,7 +51,7 @@
                         <br />
                         <span><i class="material-icons"><a href="/Page/Index/@user_model.id" style="text-decoration:none;">Pages</a></i></span>
                         <br />
-                    </details>
+                    </details>*@
                 </div>
             </div>
         </div>
